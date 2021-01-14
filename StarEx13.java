@@ -16,9 +16,3 @@ public class StarEx13 {
 		}
 	}
 }
-					
-		
-
-// (i+j>=6 || i>=j)
-//i>=j
-//!(i+j<=6 || i<=j)
